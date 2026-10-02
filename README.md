@@ -1,36 +1,59 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# RealCheck
 
-## Getting Started
+A PWA that lets Nigerian consumers photograph a product label and get an honest risk report before they buy or consume it.
 
-First, run the development server:
+**It never says "this is genuine." It says "here are the red flags."**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## The Problem
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Fake products are everywhere in Nigerian markets  fake drugs, fake yoghurt, fake toothpaste, fake palm oil. NAFDAC is underfunded. Sproxil only covers pharma with manufacturer opt-in. The categories with the highest counterfeit penetration  cosmetics, cooking oil, packaged food  have zero consumer-facing verification infrastructure.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Nigerians cannot tell if a product is real or fake before they buy it.
 
-## Learn More
+## What RealCheck Does
 
-To learn more about Next.js, take a look at the following resources:
+Photograph a product label. RealCheck:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Extracts the text (OCR, runs entirely in your browser)
+2. Checks the NAFDAC number against a snapshot of NAFDAC registration data
+3. Compares the manufacturer name and address against what's in the database
+4. Flags missing expiry dates, batch numbers, suspicious label patterns
+5. Returns an honest report: what passed, what was flagged, what we couldn't verify
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**It does not confirm authenticity.** A counterfeit can copy every detail on a label. RealCheck reports red flags, not certificates.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Coverage
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+| Category | Records | Source |
+|---|---|---|
+| Medicines | 72 | NAFDAC Greenbook |
+| Cosmetics | 28 | NAFDAC CDCL lab analysis lists |
+| Packaged Food | 20 | NAFDAC product registration data |
+
+**Total: 120 records.** Snapshot-based. No live APIs. No scraping during the demo.
+
+### Honest limitations
+
+- Cannot confirm the specific unit in your hand is genuine
+- Cannot replace a lab test or NAFDAC field inspection
+- Does not cover every product category yet
+- NAFDAC does not publish a public API  this uses a manually collected snapshot
+
+---
+
+## Tech Stack
+
+- **Framework:** Next.js 16 (App Router) + TypeScript
+- **Styling:** Tailwind CSS v4 (CSS-first config)
+- **OCR:** Tesseract.js (browser-based, no API key, no server)
+- **Data:** Local JSON snapshot (`data/`)
+- **Format:** PWA (installable, offline-capable after first load)
+- **Deploy:** Vercel
+
+---
+
+## Architecture

@@ -7,9 +7,9 @@ import { useScan } from '../lib/store';
 import type { Category } from '../adapters/nafdacAdapter';
 
 const categories: { id: Category; label: string; hint: string; icon: string }[] = [
-  { id: 'medicines', label: 'Drugs', hint: 'Tablets, syrups, injections', icon: '💊' },
-  { id: 'packaged_food', label: 'Cooking Oil', hint: 'Palm, vegetable, groundnut', icon: '🫙' },
-  { id: 'cosmetics', label: 'Cosmetics', hint: 'Creams, soaps, lotions', icon: '🧴' },
+  { id: 'medicines', label: 'Drugs', hint: 'Tablets, syrups, injections', icon: '' },
+  { id: 'packaged_food', label: 'Cooking Oil', hint: 'Palm, vegetable, groundnut', icon: '' },
+  { id: 'cosmetics', label: 'Cosmetics', hint: 'Creams, soaps, lotions', icon: '' },
 ];
 
 export default function Home() {
@@ -44,7 +44,7 @@ export default function Home() {
         </h1>
         <p className="text-base text-deep-forest/70 leading-relaxed mb-6">
           Fake products are everywhere in Nigerian markets. RealCheck scans
-          product labels and flags red flags — instantly, honestly, for free.
+          product labels and flags red flags instantly, honestly, for free.
         </p>
         <button
           onClick={() => router.push('/scan')}
@@ -74,16 +74,16 @@ export default function Home() {
       </section>
 
       {/* Example result preview */}
-      <section className="px-5 pb-8">
+      {/* <section className="px-5 pb-8">
         <p className="text-xs uppercase tracking-wider text-deep-forest/50 mb-3">
           Example result
         </p>
         <div className="rounded-lg border border-alert-red/30 bg-alert-red/10 p-4">
           <div className="flex items-start gap-3">
-            <span className="text-lg">❌</span>
+            
             <div>
               <p className="font-medium text-alert-red">
-                Serious concerns — proceed carefully
+                Serious concerns, proceed carefully
               </p>
               <p className="text-xs text-deep-forest/60 mt-1">
                 NAFDAC number not found in database
@@ -91,7 +91,7 @@ export default function Home() {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
 
       {/* Trust line */}
       <section className="px-5 pb-8 mt-auto">
@@ -105,7 +105,7 @@ export default function Home() {
       <footer className="border-t border-deep-forest/10 px-5 py-4 flex gap-4 text-xs text-deep-forest/50">
         <Link href="/terms" className="hover:text-deep-forest">Terms</Link>
         <Link href="/privacy" className="hover:text-deep-forest">Privacy</Link>
-        <span className="ml-auto">Built for Nigeria</span>
+      
       </footer>
     </main>
   );

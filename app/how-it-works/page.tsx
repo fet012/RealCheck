@@ -5,12 +5,12 @@ const steps = [
   {
     n: '1',
     title: 'Choose your category',
-    body: 'Tell us what you are checking — a drug, cooking oil, or cosmetic product.',
+    body: 'Tell us what you are checking a drug, cooking oil, or cosmetic product.',
   },
   {
     n: '2',
     title: 'Photograph the label',
-    body: 'Point your camera at the product label or upload a photo. RealCheck reads the text — the NAFDAC number, manufacturer name, product name.',
+    body: 'Point your camera at the product label or upload a photo. RealCheck reads the text the NAFDAC number, manufacturer name, product name.',
   },
   {
     n: '3',

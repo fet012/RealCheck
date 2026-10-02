@@ -45,7 +45,7 @@ export default function Terms() {
       <footer className="border-t border-deep-forest/10 px-5 py-4 flex gap-4 text-xs text-deep-forest/50 mt-auto">
         <Link href="/terms" className="hover:text-deep-forest">Terms</Link>
         <Link href="/privacy" className="hover:text-deep-forest">Privacy</Link>
-        <span className="ml-auto">Built for Nigeria</span>
+
       </footer>
     </main>
   );
