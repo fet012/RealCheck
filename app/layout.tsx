@@ -6,13 +6,13 @@ import { ServiceWorkerRegister } from '@/components/ServiceWorkerRegister';
 
 const fraunces = Fraunces({
   subsets: ['latin'],
-  variable: '--font-display',
+  variable: '--font-fraunces',
   weight: ['600', '700', '900'],
 });
 
 const dmSans = DM_Sans({
   subsets: ['latin'],
-  variable: '--font-body',
+  variable: '--font-dm-sans',
   weight: ['400', '500', '600', '700'],
 });
 

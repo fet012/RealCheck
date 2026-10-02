@@ -1,17 +1,25 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+
+@theme {
+  --color-sage: #87A878;
+  --color-warm-white: #F5F2EC;
+  --color-deep-forest: #1A1F1A;
+  --color-alert-red: #D4503A;
+  --color-amber: #E8A838;
+  --color-pale-sage: #C8DFC0;
+
+  --font-display: var(--font-fraunces), serif;
+  --font-body: var(--font-dm-sans), sans-serif;
+}
 
 :root {
   color-scheme: light;
 }
 
 body {
-  font-family: var(--font-body), sans-serif;
-}
-
-.font-display {
-  font-family: var(--font-display), serif;
+  font-family: var(--font-body);
+  background-color: var(--color-warm-white);
+  color: var(--color-deep-forest);
 }
 
 /* Reduced motion: disable scan animation */
@@ -23,20 +31,10 @@ body {
 
 /* Scan line animation */
 @keyframes scan {
-  0% {
-    transform: translateY(0);
-    opacity: 0;
-  }
-  10% {
-    opacity: 1;
-  }
-  90% {
-    opacity: 1;
-  }
-  100% {
-    transform: translateY(100%);
-    opacity: 0;
-  }
+  0% { transform: translateY(0); opacity: 0; }
+  10% { opacity: 1; }
+  90% { opacity: 1; }
+  100% { transform: translateY(100%); opacity: 0; }
 }
 
 .scan-line {
