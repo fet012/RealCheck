@@ -1,0 +1,184 @@
+{
+  "packaged_food": [
+    {
+      "nrn": "A8-102316L",
+      "name": "OZIGEO FOODS SOY MILK POWDER",
+      "manufacturer": "GEORGE SOFT STIR FOODS LIMITED",
+      "subcategory": "Cereals and Cereal Products",
+      "presentation": "soy powder in a food grade polythene pouch",
+      "expiryDate": "19/12/2024",
+      "status": "Active"
+    },
+    {
+      "nrn": "A8-102337L",
+      "name": "TRU SOYA OIL",
+      "manufacturer": "PALLY AGRO PRODUCTS LIMITED",
+      "subcategory": "Fats and oils, and Fat Emulsions",
+      "presentation": "Refined soya oil in 25L Jerrycan",
+      "expiryDate": "14/12/2024",
+      "status": "Active"
+    },
+    {
+      "nrn": "A8-102336L",
+      "name": "TRU SOYA OIL",
+      "manufacturer": "PALLY AGRO PRODUCTS LIMITED",
+      "subcategory": "Fats and oils, and Fat Emulsions",
+      "presentation": "Refined soya oil in sealed sachet",
+      "expiryDate": "14/12/2024",
+      "status": "Active"
+    },
+    {
+      "nrn": "A8-102335L",
+      "name": "TRU SOYA OIL",
+      "manufacturer": "PALLY AGRO PRODUCTS LTD",
+      "subcategory": "Fats and oils, and Fat Emulsions",
+      "presentation": "Refined Soya oil in labeled and corked PET Bottles",
+      "expiryDate": "14/12/2024",
+      "status": "Active"
+    },
+    {
+      "nrn": "A8-102259",
+      "name": "RAYHAAN PARBOILED RICE",
+      "manufacturer": "RAYHAAN BUSTAN & AGRO ALLIED LTD",
+      "subcategory": "Farm Produce",
+      "presentation": "parboiled rice packaged in a woven sack",
+      "expiryDate": "14/12/2027",
+      "status": "Active"
+    },
+    {
+      "nrn": "A8-102457L",
+      "name": "WINNER BREAD",
+      "manufacturer": "WINNER BREAD ZANGO LIMITED",
+      "subcategory": "Bakery Wares",
+      "presentation": "BROWNISH FLUFFY LOAF PACKAGED IN A TRANSPARENT POLYTHENE SACHET",
+      "expiryDate": "29/12/2024",
+      "status": "Active"
+    },
+    {
+      "nrn": "A8-102350L",
+      "name": "Moband Unripe Plaintain Chips",
+      "manufacturer": "MOBAND FOODS AND AGRO PRODUCTS LTD",
+      "subcategory": "Others",
+      "presentation": "70G SACHET",
+      "expiryDate": "14/12/2024",
+      "status": "Active"
+    },
+    {
+      "nrn": "A8-102278L",
+      "name": "ASHNA YOGHURT SWEETENED",
+      "manufacturer": "ABUNJU ARE INVESTMENT LIMITED",
+      "subcategory": "Dairy Products and Analogues",
+      "presentation": "Yoghurt in a printed labelled plastic bottle.",
+      "expiryDate": "14/12/2024",
+      "status": "Active"
+    },
+    {
+      "nrn": "A8-102426L",
+      "name": "MUBAKO PARBOILED RICE",
+      "manufacturer": "AL-MUFAIMU & ASSOCIATES NIGERIA LIMTED",
+      "subcategory": "Farm Produce",
+      "presentation": "RICE IN PRINTED BAG",
+      "expiryDate": "14/12/2024",
+      "status": "Active"
+    },
+    {
+      "nrn": "A8-5412L",
+      "name": "SOLOK GOLD REFINED PALM OLEIN OIL",
+      "manufacturer": "E-ZEMAX RESOURCES LIMITED",
+      "subcategory": "Farm Produce",
+      "presentation": "N/A",
+      "expiryDate": "14/12/2024",
+      "status": "Active"
+    },
+    {
+      "nrn": "A8-5411L",
+      "name": "ZEMOI GOLD REFINED PALM KERNEL OIL",
+      "manufacturer": "E-ZEMAX RESOURCES LIMITED",
+      "subcategory": "Farm Produce",
+      "presentation": "N/A",
+      "expiryDate": "14/12/2024",
+      "status": "Active"
+    },
+    {
+      "nrn": "A8-102389L",
+      "name": "SMS DAMBU (RICE GRITS)",
+      "manufacturer": "SMS MULTIPURPOSE VENTURES",
+      "subcategory": "Farm Produce",
+      "presentation": "Rice Grits in a 2kg polythene pouch",
+      "expiryDate": "14/12/2024",
+      "status": "Active"
+    },
+    {
+      "nrn": "A8-102373L",
+      "name": "SMS DAMBU (WHEAT GRITS)",
+      "manufacturer": "SMS MULTIPURPOSE VENTURES",
+      "subcategory": "Farm Produce",
+      "presentation": "Wheat grits in a 2kg polythene pouch",
+      "expiryDate": "14/12/2024",
+      "status": "Active"
+    },
+    {
+      "nrn": "A8-102372L",
+      "name": "SMS DAMBU (MAIZE GRITS)",
+      "manufacturer": "SMS MULTIPURPOSE VENTURES",
+      "subcategory": "Farm Produce",
+      "presentation": "Maize Grits in a 2kg Polythene Pouch",
+      "expiryDate": "14/12/2024",
+      "status": "Active"
+    },
+    {
+      "nrn": "A8-102388L",
+      "name": "RSSUN DRIED TURMERIC",
+      "manufacturer": "C-POINT CUNSULT LTD",
+      "subcategory": "Farm Produce",
+      "presentation": "Packaged Dried Turmeric",
+      "expiryDate": "14/12/2024",
+      "status": "Active"
+    },
+    {
+      "nrn": "A8-6719L",
+      "name": "TRIPLE ZERO BITTERS ALCOHOLIC DRINK 15% ALC PER VOLUME",
+      "manufacturer": "PILLARFIELD RESOURCES NIG LTD",
+      "subcategory": "Beverages",
+      "presentation": "200ml pet bottle",
+      "expiryDate": "14/12/2024",
+      "status": "Active"
+    },
+    {
+      "nrn": "A8-6718L",
+      "name": "TRIPLE ZERO GIN FLAVOURED SPIRIT DRINK 15% ALC PER VOLUME",
+      "manufacturer": "PILLARFIELD RESOURCES NIG LTD",
+      "subcategory": "Beverages",
+      "presentation": "200ml pet bottle",
+      "expiryDate": "14/12/2024",
+      "status": "Active"
+    },
+    {
+      "nrn": "A8-6720L",
+      "name": "TRIPLE ZERO GINGER FLAVOURED LIQUEUR 15% ALC/VOL",
+      "manufacturer": "PILLARFIELD RESOURCES NIG LTD",
+      "subcategory": "Beverages",
+      "presentation": "200ml pet bottle",
+      "expiryDate": "14/12/2024",
+      "status": "Active"
+    },
+    {
+      "nrn": "A8-102301L",
+      "name": "WOLESIBE NON ALCOHOLIC DRINK WITH PLANTS EXTRACT",
+      "manufacturer": "PILLARFIELD RESOURCES NIG LTD",
+      "subcategory": "Beverages",
+      "presentation": "200ml pet bottle",
+      "expiryDate": "14/12/2024",
+      "status": "Active"
+    },
+    {
+      "nrn": "A8-102302L",
+      "name": "HYLABEL BRANDY FLAVOURED SPIRIT DRINK 40% ALC PER VOLUME",
+      "manufacturer": "PILLARFIELD RESOURCES NIG LTD",
+      "subcategory": "Beverages",
+      "presentation": "750ml glass bottle",
+      "expiryDate": "14/12/2024",
+      "status": "Active"
+    }
+  ]
+}

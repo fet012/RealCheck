@@ -1,0 +1,200 @@
+{
+  "cosmetics": [
+    {
+      "nrn": "1242588",
+      "name": "304 FOR HIM BODY SPRAY",
+      "manufacturer": "GREY DE KOUROUN, C48, OBA AKINYEMI WAY, AMUWO-ODOFIN INDUSTRIAL ESTATE, LAGOS",
+      "category": "Body Perfumes",
+      "status": "Active"
+    },
+    {
+      "nrn": "NIL",
+      "name": "CLEANMAX SPARKLE MULTIPURPOSE CLEANER",
+      "manufacturer": "CLEANMAX INDUSTRIES LIMITED, 6/9 MOSHOOD OPERE STREET, AJAH LEKKI, LAGOS",
+      "category": "Cleaning Agents",
+      "status": "Active"
+    },
+    {
+      "nrn": "2755788",
+      "name": "MATADOR BODY SPRAY",
+      "manufacturer": "GREY DE KOUROUN, C48, OBA AKINYEMI WAY, AMUWO-ODOFIN INDUSTRIAL ESTATE, LAGOS",
+      "category": "Body Perfumes",
+      "status": "Active"
+    },
+    {
+      "nrn": "NIL",
+      "name": "ESSENCE OF EDEN",
+      "manufacturer": "GREY DE KOUROUN, C48, OBA AKINYEMI WAY, AMUWO-ODOFIN INDUSTRIAL ESTATE, LAGOS",
+      "category": "Body Perfumes",
+      "status": "Active"
+    },
+    {
+      "nrn": "NIL",
+      "name": "REYOUNG BODY LIGHTENING CREAM",
+      "manufacturer": "UGOTECH PRODUCTS & SERVICES LTD, 57 SHEHU STREET, LAKE VIEW ESTATE, AMUWO ODOFIN, FESTAC, LAGOS",
+      "category": "Body Creams/Lotions",
+      "status": "Active"
+    },
+    {
+      "nrn": "02-1201",
+      "name": "VENUS SKIN TONING CREAM",
+      "manufacturer": "PZ CUSSONS NIGERIA PLC, 487 SHAGAMU-IKORODU ROAD, IKORODU, LAGOS",
+      "category": "Body Creams/Lotions",
+      "status": "Active"
+    },
+    {
+      "nrn": "A2-0070",
+      "name": "NATURES GENTLE TOUCH GINGER OIL BATH AND SHOWER CONCENTRATE (500ML)",
+      "manufacturer": "RECARE LIMITED, 3K OSHODI INDUSTRIAL SCHEME, ASWANI ROAD, ISOLO, LAGOS",
+      "category": "Shower Gels",
+      "status": "Active"
+    },
+    {
+      "nrn": "NIL",
+      "name": "PAVONA SCOURING POWDER",
+      "manufacturer": "BANKOHL VENTURES LIMITED, 14 NOJIMUDEEN BAKARE STREET, OWODE RESERVATION ESTATE, OWODE LANGBASA VIA AJAH",
+      "category": "Cleaning Agents",
+      "status": "Active"
+    },
+    {
+      "nrn": "02-0298",
+      "name": "JET HAIR CREAM 125G",
+      "manufacturer": "PZ CUSSONS NIGERIA PLC, 487 SHAGAMU-IKORODU ROAD, IKORODU, LAGOS",
+      "category": "Hair Creams",
+      "status": "Active"
+    },
+    {
+      "nrn": "NIL",
+      "name": "CYBELE OUD WOOD EAU DE PARFUM",
+      "manufacturer": "CYBELE COSMETICS LIMITED, 100 LADIPO STREET, MATORI INDUSTRIAL ESTATE, LAGOS",
+      "category": "Body Perfumes",
+      "status": "Active"
+    },
+    {
+      "nrn": "NIL",
+      "name": "PAVONA DETANGLING SHAMPOO",
+      "manufacturer": "BANKOHL VENTURES LIMITED, 14 NOJIMUDEEN BAKARE STREET, OWODE RESERVATION ESTATE, OWODE LANGBASA VIA AJAH",
+      "category": "Hair Shampoos",
+      "status": "Active"
+    },
+    {
+      "nrn": "NIL",
+      "name": "PAVONA DISH WASH",
+      "manufacturer": "BANKOHL VENTURES LIMITED, 14 NOJIMUDEEN BAKARE STREET, OWODE RESERVATION ESTATE, OWODE LANGBASA VIA AJAH",
+      "category": "Cleaning Agents",
+      "status": "Active"
+    },
+    {
+      "nrn": "NIL",
+      "name": "PAVONA NEUTRALIZING SHAMPOO",
+      "manufacturer": "BANKOHL VENTURES LIMITED, 14 NOJIMUDEEN BAKARE STREET, OWODE RESERVATION ESTATE, OWODE LANGBASA VIA AJAH",
+      "category": "Hair Shampoos",
+      "status": "Active"
+    },
+    {
+      "nrn": "NIL",
+      "name": "PAVONA DETANGLING SHAMPOO",
+      "manufacturer": "BANKOHL VENTURES LIMITED, 14 NOJIMUDEEN BAKARE STREET, OWODE RESERVATION ESTATE, OWODE LANGBASA VIA AJAH",
+      "category": "Hair Shampoos",
+      "status": "Active"
+    },
+    {
+      "nrn": "NIL",
+      "name": "TENPOW TOILET CLEANER",
+      "manufacturer": "CIDA FORTREX GLOBAL CONCEPT, 12 DASFAT ROAD BESIDE RUTHINA SCHOOL, AGURA, IKORODUN, LAGOS",
+      "category": "Cleaning Agents",
+      "status": "Active"
+    },
+    {
+      "nrn": "NIL",
+      "name": "ANIKE NATURAL LIGHTENING SENSATION LOTION",
+      "manufacturer": "ANIKE NATURAL, 35 ADEOYO STREET, MUSHIN LAGOS",
+      "category": "Body Creams/Lotions",
+      "status": "Active"
+    },
+    {
+      "nrn": "NIL",
+      "name": "ANIKE NATURAL CREME FLARE WITH LICORICE EXTRACT LOTION",
+      "manufacturer": "ANIKE NATURAL, 35 ADEOYO STREET, MUSHIN LAGOS",
+      "category": "Body Creams/Lotions",
+      "status": "Active"
+    },
+    {
+      "nrn": "NIL",
+      "name": "RICKSKIN RECOVERY LOTION",
+      "manufacturer": "RELEVANT IMAGE COSMETICS, PLOT 9, NAVY TOWN INDUSTRIAL SITE, PHASE 2, MAMMY MARKET, SATELITE TOWN, LAGOS",
+      "category": "Body Creams/Lotions",
+      "status": "Active"
+    },
+    {
+      "nrn": "NIL",
+      "name": "RICLAIR WHITE LOTION",
+      "manufacturer": "RELEVANT IMAGE COSMETICS, PLOT 9, NAVY TOWN INDUSTRIAL SITE, PHASE 2, MAMMY MARKET, SATELITE TOWN, LAGOS",
+      "category": "Body Creams/Lotions",
+      "status": "Active"
+    },
+    {
+      "nrn": "NIL",
+      "name": "SKIN IMAGE LOTION",
+      "manufacturer": "RELEVANT IMAGE COSMETICS, PLOT 9, NAVY TOWN INDUSTRIAL SITE, PHASE 2, MAMMY MARKET, SATELITE TOWN, LAGOS",
+      "category": "Body Creams/Lotions",
+      "status": "Active"
+    },
+    {
+      "nrn": "NIL",
+      "name": "AFRITOL MEDICATED SOAP-75G",
+      "manufacturer": "SASO INDUSTRIES LTD, PLOT C85, AMUWO-ODOFIN INDUSTRIAL ESTATE, OSHODI-APAPA EXPRESSWAY, LAGOS",
+      "category": "Body Soap",
+      "status": "Active"
+    },
+    {
+      "nrn": "NIL",
+      "name": "DERMICLAIR CLEANSER",
+      "manufacturer": "RELEVANT IMAGE COSMETICS, PLOT 9, NAVY TOWN INDUSTRIAL SITE, PHASE 2, MAMMY MARKET, SATELITE TOWN, LAGOS",
+      "category": "Body Cleansers",
+      "status": "Active"
+    },
+    {
+      "nrn": "NIL",
+      "name": "BEA COCONUT MILK COMPLEXION CARE SOAP",
+      "manufacturer": "SASO INDUSTRIES LTD, PLOT C85, AMUWO-ODOFIN INDUSTRIAL ESTATE, OSHODI-APAPA EXPRESSWAY, LAGOS",
+      "category": "Body Soap",
+      "status": "Active"
+    },
+    {
+      "nrn": "02-0286",
+      "name": "DANDUALA PERFUME 12MLS",
+      "manufacturer": "PZ CUSSONS NIGERIA PLC, 487 SHAGAMU-IKORODU ROAD, IKORODU, LAGOS",
+      "category": "Body Perfumes",
+      "status": "Active"
+    },
+    {
+      "nrn": "NIL",
+      "name": "ALEXANDRATAFF TAJ SUNSET FOR HER EAU DE PARFUM",
+      "manufacturer": "ALEXANDRA TAFF LTD, 47 PACIFIC ESTATE, OFF SANUSI OGUNJUWON STREET, AKESAN, IGANDO/IBA ROAD, LAGOS",
+      "category": "Body Perfumes",
+      "status": "Active"
+    },
+    {
+      "nrn": "NIL",
+      "name": "KLINIK APPLE HAND WASH",
+      "manufacturer": "JOLADEX ENTERPRISES, NO 12 AJAYI CLOSE, PRINCE BUS-STOP, OFF IKOTUN-IJEGUN ROAD, IJEGUN LAGOS",
+      "category": "Liquid Wash",
+      "status": "Active"
+    },
+    {
+      "nrn": "NIL",
+      "name": "ANIKE NATURAL BLEMISH DEFENCE FACIAL CREAM",
+      "manufacturer": "ANIKE NATURAL, 35 ADEOYO STREET, MUSHIN LAGOS",
+      "category": "Body Creams/Lotions",
+      "status": "Active"
+    },
+    {
+      "nrn": "NIL",
+      "name": "ALEXANDRATAFF BAMBOO FOR HER EAU DE PARFUM",
+      "manufacturer": "ALEXANDRA TAFF LTD, 47 PACIFIC ESTATE, OFF SANUSI OGUNJUWON STREET, AKESAN, IGANDO/IBA ROAD, LAGOS",
+      "category": "Spray",
+      "status": "Active"
+    }
+  ]
+}

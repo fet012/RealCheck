@@ -1,0 +1,652 @@
+{
+  "medicines": [
+    {
+      "nrn": "A11-0009",
+      "name": "Alben Paracetamol Drops",
+      "manufacturer": "Alben Health Care Industries Ltd",
+      "activeIngredients": "Paracetamol",
+      "form": "Drops",
+      "strength": "100 mg/mL",
+      "status": "Active"
+    },
+    {
+      "nrn": "A11-101363",
+      "name": "Analife Paracetamol 500mg",
+      "manufacturer": "ANALIFE HEALTHCARE LTD",
+      "activeIngredients": "Paracetamol",
+      "form": "Tablet",
+      "strength": "500mg",
+      "status": "Active"
+    },
+    {
+      "nrn": "04-4250",
+      "name": "Arenol Paracetamol Tablet",
+      "manufacturer": "Kwara Chemical Company Limited",
+      "activeIngredients": "Paracetamol",
+      "form": "Tablet",
+      "strength": "500 mg",
+      "status": "Active"
+    },
+    {
+      "nrn": "B4-0974",
+      "name": "Avro Paracetamol Drops",
+      "manufacturer": "SKG - Pharma Ltd",
+      "activeIngredients": "Paracetamol",
+      "form": "Drops",
+      "strength": "100 mg/mL",
+      "status": "Inactive"
+    },
+    {
+      "nrn": "A4-8338",
+      "name": "Avro Paracetamol Tablet",
+      "manufacturer": "Avro Pharma Limited",
+      "activeIngredients": "Paracetamol",
+      "form": "Tablet",
+      "strength": "500 mg",
+      "status": "Active"
+    },
+    {
+      "nrn": "B4-9089",
+      "name": "BG Paracetamol Injection",
+      "manufacturer": "BG Pharma & Healthcare Limited",
+      "activeIngredients": "Paracetamol",
+      "form": "Injection",
+      "strength": "300 mg/2 mL",
+      "status": "Active"
+    },
+    {
+      "nrn": "A11-0323",
+      "name": "Bioraj Paracetamol & Diclofenac Potassium Tablet",
+      "manufacturer": "Bioraj Pharmaceuticals Limited",
+      "activeIngredients": "Diclofenac Potassium; Paracetamol",
+      "form": "Tablet",
+      "strength": "50 mg; 500 mg",
+      "status": "Active"
+    },
+    {
+      "nrn": "A4-7094",
+      "name": "Bioramol Paracetamol Drops",
+      "manufacturer": "Bioraj Pharmaceuticals Limited",
+      "activeIngredients": "Paracetamol",
+      "form": "Drops",
+      "strength": "100 mg",
+      "status": "Active"
+    },
+    {
+      "nrn": "B4-1466",
+      "name": "Bshop Extra Capsules Paracetamol 500 mg and Caffeine 30 mg",
+      "manufacturer": "Pharmamax Nigeria Limited",
+      "activeIngredients": "Paracetamol; Caffeine",
+      "form": "Capsule",
+      "strength": "500 mg; 30 mg",
+      "status": "Active"
+    },
+    {
+      "nrn": "A11-0927",
+      "name": "Deshalom Paracetamol Tablet 500 mg",
+      "manufacturer": "De-Shalom Pharmaceutical Laboratories Nigeria Limited",
+      "activeIngredients": "Paracetamol",
+      "form": "Tablet",
+      "strength": "500 mg",
+      "status": "Active"
+    },
+    {
+      "nrn": "04-2531",
+      "name": "Dizpharm Paracetamol",
+      "manufacturer": "DIZPHARM NIGERIA LIMITED",
+      "activeIngredients": "Paracetamol",
+      "form": "Tablet",
+      "strength": "500 mg",
+      "status": "Active"
+    },
+    {
+      "nrn": "04-1156",
+      "name": "Dr. Meyer's Painrid Paracetamol 500 mg Caplets",
+      "manufacturer": "Adler Products Ltd",
+      "activeIngredients": "Paracetamol",
+      "form": "Capsule",
+      "strength": "500 mg",
+      "status": "Active"
+    },
+    {
+      "nrn": "04-0261",
+      "name": "Emcap Paracetamol Caplet 500 mg",
+      "manufacturer": "Emzor Pharmaceutical Industries Limited",
+      "activeIngredients": "Paracetamol",
+      "form": "Caplet",
+      "strength": "500 mg",
+      "status": "Active"
+    },
+    {
+      "nrn": "04-7339",
+      "name": "Emcap Paracetamol Suspension",
+      "manufacturer": "Emzor Pharmaceutical Industries Limited",
+      "activeIngredients": "Paracetamol",
+      "form": "Suspension",
+      "strength": "120 mg/5 mL",
+      "status": "Active"
+    },
+    {
+      "nrn": "A11-0947",
+      "name": "Emzor Paracetamol Dispersible Tablet",
+      "manufacturer": "Emzor Pharmaceutical Industries Limited",
+      "activeIngredients": "Paracetamol",
+      "form": "Dispersible tablet",
+      "strength": "125 mg",
+      "status": "Active"
+    },
+    {
+      "nrn": "A4-7579",
+      "name": "Emzor Paracetamol Drops",
+      "manufacturer": "Emzor Pharmaceutical Industries Limited",
+      "activeIngredients": "Paracetamol",
+      "form": "Drops",
+      "strength": "100mg/15ml",
+      "status": "Active"
+    },
+    {
+      "nrn": "04-0289",
+      "name": "Emzor Paracetamol Syrup",
+      "manufacturer": "Emzor Pharmaceutical Industries Limited",
+      "activeIngredients": "Paracetamol",
+      "form": "Syrup",
+      "strength": "125 mg/5 mL",
+      "status": "Active"
+    },
+    {
+      "nrn": "04-0411",
+      "name": "Emzor Paracetamol Tablet",
+      "manufacturer": "Emzor Pharmaceutical Industries Limited",
+      "activeIngredients": "Paracetamol",
+      "form": "Tablet",
+      "strength": "500 mg",
+      "status": "Active"
+    },
+    {
+      "nrn": "B4-8504",
+      "name": "Fest Paracetamol Injection",
+      "manufacturer": "Fest Pharmaceuticals (Nig) Ltd",
+      "activeIngredients": "Paracetamol",
+      "form": "Injection",
+      "strength": "300 mg/2 mL",
+      "status": "Active"
+    },
+    {
+      "nrn": "B4-7144",
+      "name": "Fexona Paracetamol Injection",
+      "manufacturer": "Fexona Pharmaceuticals Co Ltd",
+      "activeIngredients": "Paracetamol",
+      "form": "Injection",
+      "strength": "150 mg",
+      "status": "Active"
+    },
+    {
+      "nrn": "A4-1304",
+      "name": "Fidson Paracetamol Syrup",
+      "manufacturer": "Fidson Healthcare PLC",
+      "activeIngredients": "Paracetamol",
+      "form": "Syrup",
+      "strength": "125 mg/5 mL",
+      "status": "Active"
+    },
+    {
+      "nrn": "A11-100854",
+      "name": "Funag Paracetamol 500 mg Tablet",
+      "manufacturer": "Funag Pharmaceutical Limited",
+      "activeIngredients": "Paracetamol",
+      "form": "Tablet",
+      "strength": "500 mg",
+      "status": "Active"
+    },
+    {
+      "nrn": "18225",
+      "name": "Gimbamol Injection Paracetamol 300 mg/2 mL",
+      "manufacturer": "Gimba Pharmacy Limited",
+      "activeIngredients": "Paracetamol",
+      "form": "Injection",
+      "strength": "300 mg/2 mL",
+      "status": "Active"
+    },
+    {
+      "nrn": "A4-101679",
+      "name": "Global Young Paracetamol Injection 300 mg/2 mL",
+      "manufacturer": "Global Young Pharma Limited",
+      "activeIngredients": "Paracetamol",
+      "form": "Injection",
+      "strength": "300 mg/2 mL",
+      "status": "Active"
+    },
+    {
+      "nrn": "A4-100082",
+      "name": "Amoxicillin & Clavulanate Potassium 625",
+      "manufacturer": "Caresville Pharmaceutical Limited",
+      "activeIngredients": "Amoxicillin (Amoxicillin Trihydrate); Clavulanic Acid (Potassium Clavulanate)",
+      "form": "Tablet",
+      "strength": "500 mg; 125 mg",
+      "status": "Inactive"
+    },
+    {
+      "nrn": "A4-100096",
+      "name": "Amoxicillin & Clavulanate Potassium Acid 1000",
+      "manufacturer": "Caresville Pharmaceutical Limited",
+      "activeIngredients": "Amoxicillin (Amoxicillin Trihydrate); Clavulanic Acid (Potassium Clavulanate)",
+      "form": "Tablet",
+      "strength": "875 mg; 125 mg",
+      "status": "Inactive"
+    },
+    {
+      "nrn": "C4-1164",
+      "name": "Amoxicillin & Clavulanic Acid 228.5 mg for Oral Suspension",
+      "manufacturer": "The Biostadt Company",
+      "activeIngredients": "Amoxicillin (Amoxicillin Trihydrate); Clavulanic Acid (Potassium Clavulanate)",
+      "form": "Powder for suspension",
+      "strength": "200 mg/5 mL; 28.5 mg/5 mL",
+      "status": "Inactive"
+    },
+    {
+      "nrn": "C4-1165",
+      "name": "Amoxicillin & Clavulanic Acid 625 mg",
+      "manufacturer": "The Biostadt Company",
+      "activeIngredients": "Amoxicillin (Amoxicillin Trihydrate); Clavulanic Acid (Potassium Clavulanate)",
+      "form": "Tablet",
+      "strength": "500 mg; 125 mg",
+      "status": "Inactive"
+    },
+    {
+      "nrn": "A4-100097",
+      "name": "Amoxicillin & Clavulanic Acid Powder for Oral Suspension",
+      "manufacturer": "Caresville Pharmaceutical Limited",
+      "activeIngredients": "Amoxicillin (Amoxicillin Trihydrate); Clavulanic Acid (Potassium Clavulanate)",
+      "form": "Powder for suspension",
+      "strength": "400 mg/5 mL; 57 mg/5 mL",
+      "status": "Inactive"
+    },
+    {
+      "nrn": "C4-1186",
+      "name": "Amoxicillin & Clavulanic Acid Tablet",
+      "manufacturer": "JSP Pharma Company Nigeria Limited",
+      "activeIngredients": "Amoxicillin (Amoxicillin Trihydrate); Clavulanic Acid (Potassium Clavulanate)",
+      "form": "Tablet",
+      "strength": "500 mg; 125 mg",
+      "status": "Inactive"
+    },
+    {
+      "nrn": "C4-1210",
+      "name": "Amoxicillin 1 g and Clavulanate Potassium 0.2 g for Injection",
+      "manufacturer": "Geneith Pharmaceuticals Limited",
+      "activeIngredients": "Amoxicillin (Amoxicillin Sodium); Clavulanic Acid (Potassium Clavulanate)",
+      "form": "Powder for injection",
+      "strength": "1000 mg; 200 mg",
+      "status": "Inactive"
+    },
+    {
+      "nrn": "C4-1639",
+      "name": "Amoxicillin 200 mg & Clavulanate Potassium 28.5 mg/5 mL for Oral Suspension",
+      "manufacturer": "Sepat Pharmaceuticals Ltd",
+      "activeIngredients": "Amoxicillin (Amoxicillin Trihydrate); Clavulanic Acid (Potassium Clavulanate)",
+      "form": "Powder for suspension",
+      "strength": "200 mg/5 mL; 28.5 mg/5 mL",
+      "status": "Inactive"
+    },
+    {
+      "nrn": "C4-1284",
+      "name": "Amoxicillin 200 mg & Clavulanic Acid 28.5 mg/5 mL Powder for Oral Suspension",
+      "manufacturer": "Geneith Pharmaceuticals Limited",
+      "activeIngredients": "Amoxicillin (Amoxicillin Trihydrate); Clavulanic Acid (Potassium Clavulanate)",
+      "form": "Powder for suspension",
+      "strength": "200 mg/5 mL; 28.5 mg/5 mL",
+      "status": "Inactive"
+    },
+    {
+      "nrn": "C4-1435",
+      "name": "Amoxicillin 250 mg Dispersible Tablet",
+      "manufacturer": "Novartis Nigeria Limited",
+      "activeIngredients": "Amoxicillin (Amoxicillin Trihydrate)",
+      "form": "Dispersible tablet",
+      "strength": "250 mg",
+      "status": "Inactive"
+    },
+    {
+      "nrn": "C4-1285",
+      "name": "Amoxicillin 400 mg & Clavulanic Acid 57 mg/5 mL Powder for Oral Suspension",
+      "manufacturer": "Geneith Pharmaceuticals Limited",
+      "activeIngredients": "Amoxicillin (Amoxicillin Trihydrate); Clavulanic Acid (Potassium Clavulanate)",
+      "form": "Powder for suspension",
+      "strength": "400 mg/5 mL; 57 mg/5 mL",
+      "status": "Inactive"
+    },
+    {
+      "nrn": "C4-1638",
+      "name": "Amoxicillin 500 mg & Clavulanate Potassium 125 mg Tablets",
+      "manufacturer": "Sepat Pharmaceuticals Ltd",
+      "activeIngredients": "Amoxicillin (Amoxicillin Trihydrate); Clavulanic Acid (Potassium Clavulanate)",
+      "form": "Tablet",
+      "strength": "500 mg; 125 mg",
+      "status": "Inactive"
+    },
+    {
+      "nrn": "C4-1211",
+      "name": "Amoxicillin 500 mg and Clavulanate Potassium 100 mg for Injection",
+      "manufacturer": "Geneith Pharmaceuticals Limited",
+      "activeIngredients": "Amoxicillin (Amoxicillin Sodium); Clavulanic Acid (Potassium Clavulanate)",
+      "form": "Powder for injection",
+      "strength": "500 mg; 100 mg",
+      "status": "Inactive"
+    },
+    {
+      "nrn": "C4-1632",
+      "name": "Amoxicillin 875 mg Clavulanate Potassium 125 mg Tablets",
+      "manufacturer": "Sepat Pharmaceuticals Ltd",
+      "activeIngredients": "Amoxicillin (Amoxicillin Trihydrate); Clavulanic Acid (Potassium Clavulanate)",
+      "form": "Tablet",
+      "strength": "875 mg; 125 mg",
+      "status": "Inactive"
+    },
+    {
+      "nrn": "C4-1865",
+      "name": "Amoxicillin Capsules",
+      "manufacturer": "IDA Foundation",
+      "activeIngredients": "Amoxicillin (Amoxicillin Trihydrate)",
+      "form": "Capsule",
+      "strength": "500 mg",
+      "status": "Inactive"
+    },
+    {
+      "nrn": "C4-1459",
+      "name": "Amoxicillin Dispersible Tablets 125 mg",
+      "manufacturer": "Aquatix Pharmaceuticals Limited",
+      "activeIngredients": "Amoxicillin (Amoxicillin Trihydrate)",
+      "form": "Dispersible tablet",
+      "strength": "125 mg",
+      "status": "Inactive"
+    },
+    {
+      "nrn": "A4-100549",
+      "name": "Amoxicillin for Injection",
+      "manufacturer": "Sastek Mega Pharma & Chemical Company Ltd",
+      "activeIngredients": "Amoxicillin (Amoxicillin Sodium)",
+      "form": "Powder for injection",
+      "strength": "500 mg",
+      "status": "Active"
+    },
+    {
+      "nrn": "A4-3738",
+      "name": "Amoxicillin Powder for Oral Suspension",
+      "manufacturer": "Tuyil Pharmaceutical Industries Ltd",
+      "activeIngredients": "Amoxicillin (Amoxicillin Trihydrate)",
+      "form": "Powder for suspension",
+      "strength": "125 mg/5 mL",
+      "status": "Active"
+    },
+    {
+      "nrn": "A4-100535",
+      "name": "Amoxicillin Sodium for Inj",
+      "manufacturer": "Ladfield Global Resources Ltd",
+      "activeIngredients": "Amoxicillin (Amoxicillin Sodium)",
+      "form": "Powder for injection",
+      "strength": "500 mg",
+      "status": "Active"
+    },
+    {
+      "nrn": "04-4753",
+      "name": "Aciguard Antacid Suspension",
+      "manufacturer": "Unique AgroChem Ltd",
+      "activeIngredients": "Aluminium hydroxide; Magnesium hydroxide; Magnesium trisilicate; Simeticone",
+      "form": "Suspension",
+      "strength": "300 mg/5 mL; 100 mg/5 mL; 150 mg/5 mL; 25 mg/5 mL",
+      "status": "Active"
+    },
+    {
+      "nrn": "A4-6609",
+      "name": "Biomag Chewable Antacid Tablet",
+      "manufacturer": "Bioraj Pharmaceuticals Limited",
+      "activeIngredients": "Magnesium trisilicate; Dried Aluminium hydroxide",
+      "form": "Tablet",
+      "strength": "250mg; 120mg",
+      "status": "Active"
+    },
+    {
+      "nrn": "04-1780",
+      "name": "Damixt Antacid Suspension",
+      "manufacturer": "Sewell Pharmaceuticals Limited",
+      "activeIngredients": "Magnesium trisilicate; Magnesium carbonate; Sodium bicarbonate",
+      "form": "Suspension",
+      "strength": "250 mg; 250 mg; 250 mg",
+      "status": "Inactive"
+    },
+    {
+      "nrn": "A4-100751",
+      "name": "Dexanta Chewable Antacid",
+      "manufacturer": "Glorious Dexa Mandaya Limited",
+      "activeIngredients": "Aluminium hydroxide; Magnesium hydroxide; Simeticone",
+      "form": "Chewable tablet",
+      "strength": "200mg; 200mg; 50mg",
+      "status": "Active"
+    },
+    {
+      "nrn": "A11-100688",
+      "name": "Edge Antacid Suspension",
+      "manufacturer": "Biopharma Nigeria Limited",
+      "activeIngredients": "Magnesium trisilicate; Light magnesium carbonate; Sodium bicarbonate; Aluminium magnesium silicate",
+      "form": "Suspension",
+      "strength": "250 mg/5 mL; 250 mg/5 mL; 250 mg/5 mL; 30 mg/5 mL",
+      "status": "Active"
+    },
+    {
+      "nrn": "A4-8719",
+      "name": "Gascol Antacid Suspension Banana Flavour",
+      "manufacturer": "Fidson Healthcare PLC",
+      "activeIngredients": "Magaldrate (Hydroxymagnesium Aluminate Complex); Simeticone",
+      "form": "Suspension",
+      "strength": "540 mg/5 mL; 100 mg/5 mL",
+      "status": "Active"
+    },
+    {
+      "nrn": "A4-8721",
+      "name": "Gascol Antacid Suspension Strawberry Flavour",
+      "manufacturer": "Fidson Healthcare PLC",
+      "activeIngredients": "Magaldrate (Hydroxymagnesium Aluminate Complex); Simeticone",
+      "form": "Suspension",
+      "strength": "540 mg/5 mL; 100 mg/5 mL",
+      "status": "Active"
+    },
+    {
+      "nrn": "A4-8779",
+      "name": "Gascol Antacid Suspension Sugar Free",
+      "manufacturer": "Fidson Healthcare PLC",
+      "activeIngredients": "Magaldrate (Hydroxymagnesium Aluminate Complex); Simeticone",
+      "form": "Suspension",
+      "strength": "540 mg/5 mL; 100 mg/5 mL",
+      "status": "Active"
+    },
+    {
+      "nrn": "04-6546",
+      "name": "Gascol Antacid Suspension",
+      "manufacturer": "Fidson Healthcare PLC",
+      "activeIngredients": "Magaldrate (Hydroxymagnesium Aluminate Complex); Simeticone",
+      "form": "Suspension",
+      "strength": "540 mg/5 mL; 100 mg/5 mL",
+      "status": "Active"
+    },
+    {
+      "nrn": "A11-0877",
+      "name": "Gastomac Antacid Suspension",
+      "manufacturer": "Sterling Biopharma Limited",
+      "activeIngredients": "Magaldrate (Hydroxymagnesium Aluminate Complex); Simeticone",
+      "form": "Suspension",
+      "strength": "540 mg; 100 mg",
+      "status": "Active"
+    },
+    {
+      "nrn": "A11-0141",
+      "name": "Jawasil Antacid Suspension (Orange Flavour)",
+      "manufacturer": "Jawa International Limited",
+      "activeIngredients": "Aluminium hydroxide; Magnesium hydroxide; Magnesium trisilicate; Simeticone",
+      "form": "Suspension",
+      "strength": "600 mg/10 mL; 200 mg/10 mL; 300 mg/10 mL; 50 mg/10 mL",
+      "status": "Inactive"
+    },
+    {
+      "nrn": "04-1508",
+      "name": "Jawasil Antacid Suspension",
+      "manufacturer": "Jawa International Limited",
+      "activeIngredients": "Aluminium hydroxide; Magnesium hydroxide; Magnesium trisilicate; Simeticone",
+      "form": "Suspension",
+      "strength": "600 mg; 200 mg; 300 mg",
+      "status": "Inactive"
+    },
+    {
+      "nrn": "A11-0140",
+      "name": "Jawasil Antacid Suspension(Pineapple Flavour)",
+      "manufacturer": "Jawa International Limited",
+      "activeIngredients": "Aluminium hydroxide; Magnesium hydroxide; Magnesium trisilicate; Simeticone",
+      "form": "Suspension",
+      "strength": "600 mg/10 mL; 200 mg/10 mL; 300 mg/10 mL; 50 mg/10 mL",
+      "status": "Inactive"
+    },
+    {
+      "nrn": "04-3104",
+      "name": "Jawasil Plus Antacid Suspension",
+      "manufacturer": "Jawa International Limited",
+      "activeIngredients": "Aluminium hydroxide; Magnesium hydroxide; Magnesium trisilicate; Oxethazaine; Simeticone",
+      "form": "Suspension",
+      "strength": "600 mg/10 mL; 200 mg/10 mL; 300 mg/10 mL; 50 mg/10 mL; 10 mg/10 mL",
+      "status": "Active"
+    },
+    {
+      "nrn": "A4-1680",
+      "name": "Coartem 20/120 Dispersible Tablets",
+      "manufacturer": "Novartis Nigeria Limited",
+      "activeIngredients": "Artemether; Lumefantrine",
+      "form": "Dispersible tablet",
+      "strength": "20 mg; 120 mg",
+      "status": "Inactive"
+    },
+    {
+      "nrn": "04-3275",
+      "name": "Coartem 20/120 Tablets",
+      "manufacturer": "Novartis Nigeria Limited",
+      "activeIngredients": "Artemether; Lumefantrine",
+      "form": "Tablet",
+      "strength": "20 mg; 120 mg",
+      "status": "Inactive"
+    },
+    {
+      "nrn": "B4-0262",
+      "name": "Coartem 80/480 Tablets",
+      "manufacturer": "Novartis Nigeria Limited",
+      "activeIngredients": "Artemether; Lumefantrine",
+      "form": "Tablet",
+      "strength": "80 mg; 480 mg",
+      "status": "Inactive"
+    },
+    {
+      "nrn": "A11-0040",
+      "name": "Alben Vitamin C + Glucose Chewable Tablet",
+      "manufacturer": "Alben Health Care Industries Ltd",
+      "activeIngredients": "Vitamin C; Glucose",
+      "form": "Tablet",
+      "strength": "50 mg; 150 mg",
+      "status": "Active"
+    },
+    {
+      "nrn": "A11-100569",
+      "name": "Alben Vitamin C Caplet 1000 mg",
+      "manufacturer": "Alben Health Care Industries Ltd",
+      "activeIngredients": "Ascorbic Acid",
+      "form": "Caplet",
+      "strength": "1000 mg",
+      "status": "Active"
+    },
+    {
+      "nrn": "A11-1310",
+      "name": "Biomedical Vitamin C Drops",
+      "manufacturer": "Biomedical Limited",
+      "activeIngredients": "Ascorbic Acid",
+      "form": "Drops",
+      "strength": "100 mg",
+      "status": "Active"
+    },
+    {
+      "nrn": "A11-100356",
+      "name": "Chemiron Vitamin C Syrup",
+      "manufacturer": "Chemiron Care Limited",
+      "activeIngredients": "Ascorbic Acid",
+      "form": "Syrup",
+      "strength": "100 mg/5 mL",
+      "status": "Active"
+    },
+    {
+      "nrn": "A4-9139",
+      "name": "Chupet Vitamin C Injection",
+      "manufacturer": "Chupet Pharmaceutical Company Limited",
+      "activeIngredients": "Ascorbic Acid",
+      "form": "Injection",
+      "strength": "500 mg/5 mL",
+      "status": "Active"
+    },
+    {
+      "nrn": "A4-6044",
+      "name": "Citramin Vitamin C Syrup",
+      "manufacturer": "Afrab-Chem Limited",
+      "activeIngredients": "Ascorbic Acid",
+      "form": "Syrup",
+      "strength": "100 mg/5 mL",
+      "status": "Inactive"
+    },
+    {
+      "nrn": "A4-5388",
+      "name": "Coco Vitamin C + Glucose",
+      "manufacturer": "KCH Consumer Healthcare Limited",
+      "activeIngredients": "Vitamin C; Glucose",
+      "form": "Tablet",
+      "strength": "50 mg; 150 mg",
+      "status": "Active"
+    },
+    {
+      "nrn": "A11-100613",
+      "name": "Coco Vitamin C Chewable",
+      "manufacturer": "KCH Consumer Healthcare Limited",
+      "activeIngredients": "Ascorbic Acid",
+      "form": "Chewable tablet",
+      "strength": "100 mg",
+      "status": "Active"
+    },
+    {
+      "nrn": "A11-0287",
+      "name": "Danacee Vitamin C Syrup",
+      "manufacturer": "Dana Pharmaceuticals Limited",
+      "activeIngredients": "Ascorbic Acid",
+      "form": "Syrup",
+      "strength": "100 mg/5 mL",
+      "status": "Active"
+    },
+    {
+      "nrn": "A4-5585",
+      "name": "De-Shalom Vitamin C Syrup",
+      "manufacturer": "De-Shalom Pharmaceutical Laboratories Nigeria Limited",
+      "activeIngredients": "Ascorbic Acid",
+      "form": "Syrup",
+      "strength": "100 mg/5 mL",
+      "status": "Active"
+    },
+    {
+      "nrn": "A11-100561",
+      "name": "Dr. Jessy Vitamin C 1000 Mg with Acerola and Rosehips",
+      "manufacturer": "Jessy Pharmaceutical Company Limited",
+      "activeIngredients": "Ascorbic Acid",
+      "form": "Tablet",
+      "strength": "1000 mg",
+      "status": "Active"
+    },
+    {
+      "nrn": "A11-100779",
+      "name": "Emcee Vitamin C Tablets 100 mg (Chewable)",
+      "manufacturer": "Emron Pharmaceuticals Limited",
+      "activeIngredients": "Vitamin C (Ascorbic acid)",
+      "form": "Chewable tablet",
+      "strength": "100 mg",
+      "status": "Active"
+    }
+  ]
+}
