@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from 'next';
 import { Fraunces, DM_Sans } from 'next/font/google';
 import './globals.css';
 import { ScanProvider } from '../lib/store';
+import { ServiceWorkerRegister } from '@/components/ServiceWorkerRegister';
 
 const fraunces = Fraunces({
   subsets: ['latin'],
@@ -42,9 +43,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className={`${fraunces.variable} ${dmSans.variable}`}>
-      <body className="bg-[#F5F2EC] text-[#1A1F1A] antialiased font-body">
-        <ScanProvider>{children}</ScanProvider>
-      </body>
+     <body className="bg-[#F5F2EC] text-[#1A1F1A] antialiased font-body">
+  <ScanProvider>{children}</ScanProvider>
+  <ServiceWorkerRegister />
+</body>
     </html>
   );
 }
