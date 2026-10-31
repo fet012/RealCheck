@@ -50,7 +50,7 @@ export default function Home() {
           onClick={() => router.push('/scan')}
           className="w-full bg-sage hover:bg-sage/90 text-warm-white font-medium py-4 rounded-lg transition"
         >
-          Scan a product
+          Scan product
         </button>
         <p className="text-xs text-deep-forest/50 text-center mt-3">
           . 
