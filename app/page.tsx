@@ -83,7 +83,7 @@ export default function Home() {
             
             <div>
               <p className="font-medium text-alert-red">
-                Serious concerns, proceed carefully
+                Serious concern, proceed carefully
               </p>
               <p className="text-xs text-deep-forest/60 mt-1">
                 NAFDAC number not found in database
