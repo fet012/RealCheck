@@ -6,10 +6,10 @@ import { Logo, Wordmark } from '../components/Logo';
 import { useScan } from '../lib/store';
 import type { Category } from '../adapters/nafdacAdapter';
 
-const categories: { id: Category; label: string; hint: string; icon: string }[] = [
-  { id: 'medicines', label: 'Drugs', hint: 'Tablets, syrups, injections', icon: '' },
-  { id: 'packaged_food', label: 'Cooking Oil', hint: 'Palm, vegetable, groundnut', icon: '' },
-  { id: 'cosmetics', label: 'Cosmetics', hint: 'Creams, soaps, lotions', icon: '' },
+const categories: { id: Category; label: string; hint: string }[] = [
+  { id: 'medicines', label: 'Drugs', hint: 'Tablets, syrups, injections' },
+  { id: 'packaged_food', label: 'Cooking Oil', hint: 'Palm, vegetable, groundnut' },
+  { id: 'cosmetics', label: 'Cosmetics', hint: 'Creams, soaps, lotions' },
 ];
 
 export default function Home() {
@@ -44,7 +44,7 @@ export default function Home() {
         </h1>
         <p className="text-base text-deep-forest/70 leading-relaxed mb-6">
           Fake products are everywhere in Nigerian markets. RealCheck scans
-          product labels and flags red flags instantly, honestly, for free.
+          product labels and flags red flags instantly.
         </p>
         <button
           onClick={() => router.push('/scan')}
@@ -53,7 +53,7 @@ export default function Home() {
           Scan a product
         </button>
         <p className="text-xs text-deep-forest/50 text-center mt-3">
-          No login. No account. Just scan.
+          . 
         </p>
       </section>
 
@@ -66,7 +66,7 @@ export default function Home() {
               onClick={() => handleCategory(c.id)}
               className="px-3 py-2 rounded-full border border-deep-forest/15 bg-pale-sage/40 hover:bg-pale-sage text-sm transition"
             >
-              <span className="mr-1.5">{c.icon}</span>
+         
               {c.label}
             </button>
           ))}
