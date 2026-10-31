@@ -48,7 +48,7 @@ export default function HowItWorks() {
           How RealCheck works
         </h1>
         <p className="text-deep-forest/70">
-          Three steps. No account. No guessing.
+          Three steps. No account.
         </p>
       </section>
 
